@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SabPaisa/paymentGateway/static/css/main.073c9b0a.css",
+    "main.js": "/SabPaisa/paymentGateway/static/js/main.b39edfea.js",
+    "static/js/787.b51a2099.chunk.js": "/SabPaisa/paymentGateway/static/js/787.b51a2099.chunk.js",
+    "index.html": "/SabPaisa/paymentGateway/index.html",
+    "main.073c9b0a.css.map": "/SabPaisa/paymentGateway/static/css/main.073c9b0a.css.map",
+    "main.b39edfea.js.map": "/SabPaisa/paymentGateway/static/js/main.b39edfea.js.map",
+    "787.b51a2099.chunk.js.map": "/SabPaisa/paymentGateway/static/js/787.b51a2099.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b39edfea.js"
+  ]
+}
